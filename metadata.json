@@ -1,0 +1,9 @@
+{
+  "name": "YDTechPro Governance Protocol",
+  "description": "Enterprise-grade B2B/B2C hybrid marketplace with role-based governance, real-time negotiations, and geospatial procurement matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
